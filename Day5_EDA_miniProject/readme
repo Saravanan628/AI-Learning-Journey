@@ -1,0 +1,29 @@
+# Day 5 — Data Visualization & Exploratory Data Analysis
+
+## Overview
+This project focuses on understanding and visualizing data before applying machine learning models.
+EDA was performed using Python visualization libraries.
+
+## Dataset
+- Titanic dataset (seaborn)
+
+## Tools & Libraries
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Key Visualizations
+- Histograms for age and fare distributions
+- Countplots for gender, class, and survival
+- Correlation heatmap for feature relationships
+
+## Insights
+- Passenger class has a strong influence on survival
+- Higher fares are associated with higher survival probability
+- Females had higher survival rates than males
+- Deck column has significant missing values
+
+## Outcome
+This project demonstrates the importance of EDA in understanding data patterns, relationships,
+and preparing data for machine learning models.
